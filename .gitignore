@@ -2,7 +2,7 @@
 
 # Ignore these files
 tempFile.txt
-tempFile2.txt	#Adding after commit
+tempFile2.txt
 .DS_Store
 *.zip
 *.gz
